@@ -9,7 +9,7 @@
 - Modern design and responsive layout
 
 #### Technologies
-- **React**: For dynamic UI and state management
+- **React.js**: For dynamic UI and state management
 - **JavaScript**: Application logic
 - **CSS/HTML**: Styling and structure
 
