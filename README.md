@@ -1,2 +1,16 @@
-# Keeper_App
-Created with CodeSandbox
+### Keeper App
+
+**Keeper App** is a sleek, React-based note-taking application that lets you easily create, manage, and delete notes with a modern, responsive interface.
+
+#### Features
+- Quick note creation
+- Stylish card-based note management
+- Easy note deletion
+- Modern design and responsive layout
+
+#### Technologies
+- **React**: For dynamic UI and state management
+- **JavaScript**: Application logic
+- **CSS/HTML**: Styling and structure
+
+**Get started with Keeper App and keep your notes organized!**
